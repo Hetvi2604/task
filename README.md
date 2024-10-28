@@ -53,17 +53,17 @@ Deploy the web-build folder to any static site host.
 3. View the estimated delivery date and a countdown timer (if applicable) for same-day delivery.
 
 ## Features
--Product Selection: Browse through products and select one for delivery estimation.
--Pincode Validation: Checks pincodes and maps them to providers.
--Delivery Date Calculation: Calculates delivery based on provider rules.
--Countdown Timer: Shows time remaining to qualify for same-day delivery.
+- Product Selection: Browse through products and select one for delivery estimation.
+- Pincode Validation: Checks pincodes and maps them to providers.
+- Delivery Date Calculation: Calculates delivery based on provider rules.
+- Countdown Timer: Shows time remaining to qualify for same-day delivery.
 
 ## Configuration
 The app requires data in Excel format:
 
--products.xlsx: List of products.
--pincodes.xlsx: Mapping of pincodes to providers.
--stock.xlsx: Product stock availability.
+- products.xlsx: List of products.
+- pincodes.xlsx: Mapping of pincodes to providers.
+- stock.xlsx: Product stock availability.
 Place these files in assets/data.
 
 Contributing
